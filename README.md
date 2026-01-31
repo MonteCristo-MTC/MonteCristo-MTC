@@ -33,7 +33,7 @@
 
 #### 🗄️ Database
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
 
 ---
 
