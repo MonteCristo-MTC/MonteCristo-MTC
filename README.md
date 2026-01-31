@@ -19,12 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MonteCristo-MTC&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteCristo-MTC&layout=compact&theme=tokyonight)
-
----
-
 ### 🧠 Activity Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonteCristo-MTC&theme=react-dark)
 
