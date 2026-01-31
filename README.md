@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm MonteCristo</h1>
+<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
-<!--
-**MonteCristo-MTC/MonteCristo-MTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me
+- 🔭 I’m currently working on: **Web & API**
+- 🌱 I’m learning: **Angular, .NET, Security**
+- 💬 Ask me about: **C#, Angular, Backend**
+- ⚡ Fun fact: I love clean code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MonteCristo-MTC&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteCristo-MTC&layout=compact&theme=tokyonight)
+
+---
+
+### 🧠 Activity Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonteCristo-MTC&theme=react-dark)
+
+---
+
+### 📫 Contact me
+- ✉️ Email: yourmail@gmail.com
+- 🌐 Facebook: ...
