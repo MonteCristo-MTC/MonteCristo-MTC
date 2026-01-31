@@ -45,14 +45,14 @@
 ---
 
 ## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MonteCristo-MTC&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteCristo-MTC&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MonteCristo-MTC&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MonteCristo-MTC&theme=tokyonight&row=1&column=6)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MonteCristo-MTC&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 ### 📫 Contact me
