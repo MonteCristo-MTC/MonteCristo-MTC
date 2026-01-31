@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/6b/54/8b6b54d0dcf78bdfc2872e1c53e0d7e4.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm MonteCristo</h1>
 <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
@@ -8,7 +12,7 @@
 ### 🧑‍💻 About me
 - 🔭 I’m currently working on: **Web & API, Game**
 - 🌱 I’m learning: **Backend, Frontend, Cloud, Unity**
-- 💬 Ask me about: **C#, .NET, Angular, VUE, Docker**
+- 💬 Ask me about: **C#, .NET, Docker, Azure, AWS, Angular, VUE, React, Unity**
 
 ---
 
