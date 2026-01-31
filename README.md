@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm MonteCristo</h1>
 <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Welcome+to+my+GitHub;Clean+Code+%7C+Cloud+%7C+Security;Always+learning+new+things)
+
 ---
 
 ### 🧑‍💻 About me
