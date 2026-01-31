@@ -4,17 +4,36 @@
 ---
 
 ### 🧑‍💻 About me
-- 🔭 I’m currently working on: **Web & API**
-- 🌱 I’m learning: **Angular, .NET, Security**
-- 💬 Ask me about: **C#, Angular, Backend**
+- 🔭 I’m currently working on: **Web & API, Game**
+- 🌱 I’m learning: **Backend, Frontend, Cloud, Unity**
+- 💬 Ask me about: **C#, .NET, Angular, VUE, Docker**
 
 ---
 
 ### 🚀 Tech Stack
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
+
+#### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+
+#### 🧠 Backend
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
+#### 🎮 Game & 3D
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
+
+#### 🗄️ Database
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=mysql)
 
 ---
 
@@ -24,5 +43,5 @@
 ---
 
 ### 📫 Contact me
-- ✉️ Email: yourmail@gmail.com
-- 🌐 Facebook: ...
+- ✉️ Email: duyhungmtc1610@gmail.com
+- 🌐 Facebook: https://www.facebook.com/nguyen.duy.hung.48509/
