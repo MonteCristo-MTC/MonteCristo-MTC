@@ -43,20 +43,6 @@
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonteCristo-MTC&theme=react-dark)
 
 ---
-
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MonteCristo-MTC&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonteCristo-MTC&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MonteCristo-MTC&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MonteCristo-MTC&theme=tokyonight&row=1&column=6)
-
-![Profile Views](https://komarev.com/ghpvc/?username=MonteCristo-MTC&label=Profile%20views&color=0e75b6&style=flat)
-
----
 ### 📫 Contact me
 - ✉️ Email: duyhungmtc1610@gmail.com
 - 🌐 Facebook: https://www.facebook.com/nguyen.duy.hung.48509/
