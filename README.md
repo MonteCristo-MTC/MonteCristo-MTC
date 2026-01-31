@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on: **Web & API**
 - 🌱 I’m learning: **Angular, .NET, Security**
 - 💬 Ask me about: **C#, Angular, Backend**
-- ⚡ Fun fact: I love clean code
 
 ---
 
