@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: **Web & API, Game**
 - 🌱 I’m learning: **Backend, Frontend, Cloud, Unity**
 - 💬 Ask me about: **C#, .NET, Docker, Azure, AWS, Angular, VUE, React, Unity**
-
+- *📚 The technical knowledge I’ve learned and documented in detail is compiled in the Notion link below*
 ---
 
 ### 🚀 Tech Stack
