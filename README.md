@@ -46,4 +46,4 @@
 ### 📫 Contact me
 - ✉️ Email: duyhungmtc1610@gmail.com
 - 🌐 Facebook: https://www.facebook.com/nguyen.duy.hung.48509/
-- 📝 Notion: [https://www.notion.so/duyhung](https://www.notion.so/Technology-13993bbf43fe80aba2b5e2ce1b7d485a?source=copy_link)
+- 📝 Notion: [https://www.notion.so/technology](https://www.notion.so/Technology-13993bbf43fe80aba2b5e2ce1b7d485a?source=copy_link)
